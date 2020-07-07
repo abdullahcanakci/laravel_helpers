@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+cd $LARADOCK
+docker-compose exec nginx nginx -s reload
+
+

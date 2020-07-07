@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd $LARADOCK
+docker-compose exec --user=laradock workspace bash

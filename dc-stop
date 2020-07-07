@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd $LARADOCK
+
+docker-compose stop
