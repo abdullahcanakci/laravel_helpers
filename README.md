@@ -1,4 +1,12 @@
-# Some Helpfull Scripts
+I have been using some thing, made some thing and though some other things. And of those things there might be some that I might want to remember later.
+
+## fishy_business
+
+fish shell scripts, config etc
+
+
+
+## laradock_scripts
 
 I have been using Laradock for orchestrating local Laravel development needs. Although everythings is packaged pretty neat, I needed some help.
 
